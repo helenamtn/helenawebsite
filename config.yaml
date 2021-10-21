@@ -97,7 +97,7 @@ params:
         subtitle: 6 months at Raise Investissement, Paris
         title: Previous job experiences
         url: https://www.raise.co/
-      - image: amundi
+      - image: amundi.jpg
         subtitle: 6 months at Amundi Private Equity, Paris
         title: Previous job experiences
         url: https://www.amundi.fr/fr_instit/Expertises/Amundi-Actifs-Reels/Private-Equity
@@ -105,14 +105,14 @@ params:
       #  subtitle: Feugiat Amet Tempus
        # title: Etiam
         #url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+ # two:
+  #  buttonText: Get Started
+   # enable: yes
+    #subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+     # \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+      #condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      #pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+      #Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+      #amet pharetra et feugiat tempus."
+    #title: Massa libero
+    #url: blogs
