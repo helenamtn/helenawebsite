@@ -8,13 +8,13 @@ params:
   banner:
     buttonText: Get Started
     #subtitle: |-
-     A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+     #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Helena
   blog: {}
   contact:
     address:
-      - city: London, ST NW16UN
+      - city: London, NW16UN
         country: England
         street: 75 Lisson Grove
         title: Address
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (0033) 646702611 x1234
+      - phone: (0033) 646702611
         title: Phone
   custom_css: []
   custom_js: []
