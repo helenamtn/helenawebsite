@@ -29,7 +29,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Helena Martin's website
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -37,10 +37,10 @@ params:
   footer:
     copyright: Helena Martin
     enable: yes
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+    #quicklinks:
+     # - alt: HTML5 UP
+      #  text: 'Design: '
+       # url: https://www.html5up.net
     social:
       #- icon: fa-twitter
        # label: Twitter
@@ -76,7 +76,7 @@ params:
       #- name: Elements
        # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: ''
     title: Helena Martin
   tiles:
     enable: yes
