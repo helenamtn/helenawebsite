@@ -81,18 +81,18 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: cvpic.jpg
+        subtitle: My LinkedIn profil
+        title: LinkedIn
+        url: https://www.linkedin.com/in/helena-martin-3b50709b/
+      - image: lbs.jpg
+        subtitle: Masters in Financial Analysis at London Business School
+        title: My Masters
+        url: https://www.london.edu/masters-degrees/masters-in-financial-analysis
+      - image: dauphine.jpg
+        subtitle: Paris-Dauphine University
+        title: My Undergraduate
+        url: https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-management
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
