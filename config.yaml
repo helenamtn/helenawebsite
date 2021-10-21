@@ -7,7 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
+    #subtitle: |-
      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Helena
@@ -16,16 +16,16 @@ params:
     address:
       - city: London, ST NW16UN
         country: England
-        street: Lisson Grove
+        street: 75 Lisson Grove
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: helena@davai.pro
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (0033) 646702611 x1234
         title: Phone
   custom_css: []
   custom_js: []
