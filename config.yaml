@@ -61,23 +61,23 @@ params:
   name: Helena Martin
   navigation:
     button1:
-      - name: Get Started
+      - name: More about me
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    #button2:
+    #  - name: Log In
+     #   url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Generic Blog
+       # url: blogs/ipsum
+      #- name: Elements
+       # url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
-    title: Forty
+    title: Helena Martin
   tiles:
     enable: yes
     showcase:
