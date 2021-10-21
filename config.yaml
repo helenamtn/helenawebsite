@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: More About Me
     #subtitle: |-
      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
@@ -60,17 +60,17 @@ params:
   image: cvpic.jpg
   name: Helena Martin
   navigation:
-    button1:
-      - name: More about me
-        url: blogs
+    #button1:
+     # - name: More about me
+      #  url: blogs
     #button2:
     #  - name: Log In
      #   url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
+      #- name: Blogs
+       # url: blogs
       #- name: Generic Blog
        # url: blogs/ipsum
       #- name: Elements
@@ -82,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: cvpic.jpg
-        subtitle: My LinkedIn profil
+        subtitle: My LinkedIn profile
         title: LinkedIn
         url: https://www.linkedin.com/in/helena-martin-3b50709b/
       - image: lbs.jpg
