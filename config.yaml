@@ -93,14 +93,14 @@ params:
         subtitle: Paris-Dauphine University
         title: My Undergraduate
         url: https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-management
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+      - image: raise.jpg
+        subtitle: 6 months at Raise Investissement, Paris
+        title: Previous job experiences
+        url: https://www.raise.co/
+      - image: amundi
+        subtitle: 6 months at Amundi Private Equity, Paris
+        title: Previous job experiences
+        url: https://www.amundi.fr/fr_instit/Expertises/Amundi-Actifs-Reels/Private-Equity
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
