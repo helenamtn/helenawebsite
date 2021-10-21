@@ -7,16 +7,16 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
+    #subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Helena
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, ST NW16UN
+        country: England
+        street: Lisson Grove
         title: Address
     buttonClear: Clear
     buttonSend: Send message
